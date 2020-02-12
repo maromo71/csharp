@@ -1,0 +1,10 @@
+C:\Users\marco\Dropbox\etec\testes\MyProgram\MyProgram\bin\Debug\MyProgram.exe.config
+C:\Users\marco\Dropbox\etec\testes\MyProgram\MyProgram\bin\Debug\MyProgram.exe
+C:\Users\marco\Dropbox\etec\testes\MyProgram\MyProgram\bin\Debug\MyProgram.pdb
+C:\Users\marco\Dropbox\etec\testes\MyProgram\MyProgram\obj\Debug\MyProgram.csprojResolveAssemblyReference.cache
+C:\Users\marco\Dropbox\etec\testes\MyProgram\MyProgram\obj\Debug\MyProgram.FrmMenu.resources
+C:\Users\marco\Dropbox\etec\testes\MyProgram\MyProgram\obj\Debug\MyProgram.Properties.Resources.resources
+C:\Users\marco\Dropbox\etec\testes\MyProgram\MyProgram\obj\Debug\MyProgram.csproj.GenerateResource.Cache
+C:\Users\marco\Dropbox\etec\testes\MyProgram\MyProgram\obj\Debug\MyProgram.exe
+C:\Users\marco\Dropbox\etec\testes\MyProgram\MyProgram\obj\Debug\MyProgram.pdb
+C:\Users\marco\Dropbox\etec\testes\MyProgram\MyProgram\obj\Debug\MyProgram.FrmProdutos.resources
